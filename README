@@ -1,0 +1,11 @@
+#ENVIO DE SMS TULOENVIA PISCO COMPANY TICS 
+
+Conexion Por ODBC "PISCOSMS"
+No Tocar las Variables .ENV Las cuasles se cargan desde la Base De Datos
+
+//Antes De Instalr Recordar Descarar NMP
+Nota: Ubicar La Carpeta En El C Y Ejecutar El CMD con permiso de administrador antes de ejecutar los comandos
+los cuales son:
+1) Abrir La Unicacion Del Archivo En El CMD Y Ejecutar NPM I
+2) Luego Ejecutar En El CMD Node Service Para Instalar El Servicio
+
